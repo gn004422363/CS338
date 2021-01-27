@@ -1,2 +1,2 @@
-# CS338
-CS338 - Graphical User Interfaces (Summer 2020)
+# CS360
+CS360 - Programming Language Concepts (Summer 2020)
